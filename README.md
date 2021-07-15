@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Ballroom-Dancing, Poetry, Startups, Fantasy, PC- and Console-Gaming and a whole lot more :)
 - 🌱 I’m currently learning lua, applescript, javascript and shell-scripting with pyhton, bash, ...
 - 💞️ I’m looking to collaborate on anything for my business www.bytepoets.com
-- 📫 How to reach me: @markusbarta
+- 📫 How to reach me: https://twitter.com/markusbarta
 
 <!---
 markus-barta/markus-barta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
