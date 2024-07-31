@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m @markus-barta
 - 👀 I’m interested in Coding, Ballroom-Dancing, Poetry, Startups, Fantasy, PC- and Console-Gaming and a whole lot more :)
-- 🌱 I’m currently learning a lot about docker, github actions, shellscripts, godot, javascript, ...
-- 💞️ I’m always looking for collaboratins on anything for my business www.bytepoets.com
+- 🌱 I’m currently learning a lot about Nixos, Docker, GitHub (actions), Shellscripts, Godot, JavaScript, ...
+- 💞️ I’m always looking for collaboratins realted to my business www.bytepoets.com
 - 📫 How to reach me: https://x.com/markusbarta
 
 <!---
